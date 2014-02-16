@@ -1,0 +1,11 @@
+.bbp-hook {
+	background: #fff;
+	color: #21759B;
+	display: block;
+	padding: 2px 5px;
+	font-size: 12px;
+	margin: 5px;
+	border: 1px solid #21759B;
+	overflow: hidden;
+	word-wrap: break-word;
+}
